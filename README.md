@@ -22,7 +22,7 @@ Como rodar a aplicação (local)
    - ./mvnw spring-boot:run
    - ou: mvn spring-boot:run
 
-Endpoints (nomes esperados)
+Endpoints 
 - Clientes (CRUD)
   - POST /api/clientes  — criar cliente
   - GET /api/clientes   — listar
